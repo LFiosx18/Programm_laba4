@@ -1,0 +1,6 @@
+show
+info
+add
+print_unique_manufacture_cost
+save
+exit
