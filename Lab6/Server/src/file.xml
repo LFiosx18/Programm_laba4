@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Products>
+    <Product id="5">
+        <name>Fruit</name>
+        <coordinates>
+            <coordinateX>1</coordinateX>
+            <coordinateY>4</coordinateY>
+        </coordinates>
+        <creationDate>2022-03-28T12:34:11.567</creationDate>
+        <price>50</price>
+        <partNumber>f12</partNumber>
+        <manufactureCost>9</manufactureCost>
+        <unitOfMeasure>PCS</unitOfMeasure>
+        <manufacturer>
+            <id>2</id>
+            <name>OOO Fruits</name>
+            <annualTurnover>4</annualTurnover>
+            <employeesCount>5</employeesCount>
+            <type>TRUST</type>
+        </manufacturer>
+    </Product>
+    <Product id="3">
+        <name>Cheese</name>
+        <coordinates>
+            <coordinateX>4</coordinateX>
+            <coordinateY>5</coordinateY>
+        </coordinates>
+        <creationDate>2022-03-28T14:15:49.622</creationDate>
+        <price>6</price>
+        <partNumber>1</partNumber>
+        <manufactureCost>2</manufactureCost>
+        <unitOfMeasure>GRAMS</unitOfMeasure>
+        <manufacturer>
+            <id>3</id>
+            <name>1</name>
+            <annualTurnover>4</annualTurnover>
+            <employeesCount>5</employeesCount>
+            <type>PUBLIC</type>
+        </manufacturer>
+    </Product>
+</Products>
