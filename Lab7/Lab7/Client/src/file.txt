@@ -1,0 +1,7 @@
+show
+info
+print_unique_manufacture_cost
+filter_contains_name Mi
+remove_by_id 2
+show
+exit
